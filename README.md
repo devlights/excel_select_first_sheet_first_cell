@@ -1,0 +1,2 @@
+# excel_select_first_sheet_first_cell
+Excelを開いて最初のシートの最初のセルを選択状態にしていくスクリプト
